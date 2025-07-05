@@ -4,7 +4,7 @@ This is a console-based **Java stock trading simulator** built as part of the Co
 
 ---
 
-## 📌 Features
+## Features
 
 - View live market stock list with prices
 - Buy stocks and reduce wallet balance
@@ -37,13 +37,6 @@ This is a console-based **Java stock trading simulator** built as part of the Co
 If run locally, a file called `portfolio.txt` will be created for saving your portfolio
 
 ---
-
-## Demo (optional)
-
-_Link to demo video or screenshot if available_
-
----
-
 ##  Author
 
 ** Deva Dharshini **  

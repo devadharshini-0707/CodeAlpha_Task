@@ -15,7 +15,7 @@ This repository contains my completed tasks for the CodeAlpha Java Internship.
 - Uses OOP, object classes for users, stocks, and portfolio
 - Supports buy/sell operations with balance tracking
 - File I/O used to save and load portfolio data
-- 📄 [View Code](Task2_StockTradingPlatform/StockTradingPlatform.java)
+- [View Code](Task2_StockTradingPlatform/StockTradingPlatform.java)
 
 ---
 
